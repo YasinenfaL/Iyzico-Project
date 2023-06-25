@@ -1,0 +1,10 @@
+pandas==1.4.4
+fastapi[all]==0.95.0
+uvicorn[standard]==0.20.0
+scikit-learn<=1.2.2
+numpy==1.23.3
+lightgbm==3.3.5
+seaborn==0.12.0
+matplotlib==3.5.2
+joblib==1.2.0
+
